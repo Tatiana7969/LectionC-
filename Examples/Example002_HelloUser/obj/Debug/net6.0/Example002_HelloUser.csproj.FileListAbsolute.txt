@@ -1,0 +1,16 @@
+/Users/tatiana/Desktop/c#лекции/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser
+/Users/tatiana/Desktop/c#лекции/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.deps.json
+/Users/tatiana/Desktop/c#лекции/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.runtimeconfig.json
+/Users/tatiana/Desktop/c#лекции/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.dll
+/Users/tatiana/Desktop/c#лекции/Examples/Example002_HelloUser/bin/Debug/net6.0/ref/Example002_HelloUser.dll
+/Users/tatiana/Desktop/c#лекции/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.pdb
+/Users/tatiana/Desktop/c#лекции/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.GlobalUsings.g.cs
+/Users/tatiana/Desktop/c#лекции/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.AssemblyReference.cache
+/Users/tatiana/Desktop/c#лекции/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatiana/Desktop/c#лекции/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfoInputs.cache
+/Users/tatiana/Desktop/c#лекции/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfo.cs
+/Users/tatiana/Desktop/c#лекции/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.CoreCompileInputs.cache
+/Users/tatiana/Desktop/c#лекции/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.dll
+/Users/tatiana/Desktop/c#лекции/Examples/Example002_HelloUser/obj/Debug/net6.0/ref/Example002_HelloUser.dll
+/Users/tatiana/Desktop/c#лекции/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.pdb
+/Users/tatiana/Desktop/c#лекции/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/Users/tatiana/Desktop/c#лекции/Examples/Example006_Base/obj/Debug/net6.0/Example006_Base.GlobalUsings.g.cs
+/Users/tatiana/Desktop/c#лекции/Examples/Example006_Base/obj/Debug/net6.0/Example006_Base.csproj.AssemblyReference.cache
+/Users/tatiana/Desktop/c#лекции/Examples/Example006_Base/obj/Debug/net6.0/Example006_Base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatiana/Desktop/c#лекции/Examples/Example006_Base/obj/Debug/net6.0/Example006_Base.AssemblyInfoInputs.cache
+/Users/tatiana/Desktop/c#лекции/Examples/Example006_Base/obj/Debug/net6.0/Example006_Base.AssemblyInfo.cs
+/Users/tatiana/Desktop/c#лекции/Examples/Example006_Base/obj/Debug/net6.0/Example006_Base.csproj.CoreCompileInputs.cache
+/Users/tatiana/Desktop/c#лекции/Examples/Example006_Base/bin/Debug/net6.0/Example006_Base
+/Users/tatiana/Desktop/c#лекции/Examples/Example006_Base/bin/Debug/net6.0/Example006_Base.deps.json
+/Users/tatiana/Desktop/c#лекции/Examples/Example006_Base/bin/Debug/net6.0/Example006_Base.runtimeconfig.json
+/Users/tatiana/Desktop/c#лекции/Examples/Example006_Base/bin/Debug/net6.0/Example006_Base.dll
+/Users/tatiana/Desktop/c#лекции/Examples/Example006_Base/bin/Debug/net6.0/ref/Example006_Base.dll
+/Users/tatiana/Desktop/c#лекции/Examples/Example006_Base/bin/Debug/net6.0/Example006_Base.pdb
+/Users/tatiana/Desktop/c#лекции/Examples/Example006_Base/obj/Debug/net6.0/Example006_Base.dll
+/Users/tatiana/Desktop/c#лекции/Examples/Example006_Base/obj/Debug/net6.0/ref/Example006_Base.dll
+/Users/tatiana/Desktop/c#лекции/Examples/Example006_Base/obj/Debug/net6.0/Example006_Base.pdb
+/Users/tatiana/Desktop/c#лекции/Examples/Example006_Base/obj/Debug/net6.0/Example006_Base.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/Users/tatiana/Desktop/c#лекции/Examples/Exemple008/bin/Debug/net6.0/Exemple008
+/Users/tatiana/Desktop/c#лекции/Examples/Exemple008/bin/Debug/net6.0/Exemple008.deps.json
+/Users/tatiana/Desktop/c#лекции/Examples/Exemple008/bin/Debug/net6.0/Exemple008.runtimeconfig.json
+/Users/tatiana/Desktop/c#лекции/Examples/Exemple008/bin/Debug/net6.0/Exemple008.dll
+/Users/tatiana/Desktop/c#лекции/Examples/Exemple008/bin/Debug/net6.0/ref/Exemple008.dll
+/Users/tatiana/Desktop/c#лекции/Examples/Exemple008/bin/Debug/net6.0/Exemple008.pdb
+/Users/tatiana/Desktop/c#лекции/Examples/Exemple008/obj/Debug/net6.0/Exemple008.GlobalUsings.g.cs
+/Users/tatiana/Desktop/c#лекции/Examples/Exemple008/obj/Debug/net6.0/Exemple008.csproj.AssemblyReference.cache
+/Users/tatiana/Desktop/c#лекции/Examples/Exemple008/obj/Debug/net6.0/Exemple008.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatiana/Desktop/c#лекции/Examples/Exemple008/obj/Debug/net6.0/Exemple008.AssemblyInfoInputs.cache
+/Users/tatiana/Desktop/c#лекции/Examples/Exemple008/obj/Debug/net6.0/Exemple008.AssemblyInfo.cs
+/Users/tatiana/Desktop/c#лекции/Examples/Exemple008/obj/Debug/net6.0/Exemple008.csproj.CoreCompileInputs.cache
+/Users/tatiana/Desktop/c#лекции/Examples/Exemple008/obj/Debug/net6.0/Exemple008.dll
+/Users/tatiana/Desktop/c#лекции/Examples/Exemple008/obj/Debug/net6.0/ref/Exemple008.dll
+/Users/tatiana/Desktop/c#лекции/Examples/Exemple008/obj/Debug/net6.0/Exemple008.pdb
+/Users/tatiana/Desktop/c#лекции/Examples/Exemple008/obj/Debug/net6.0/Exemple008.genruntimeconfig.cache

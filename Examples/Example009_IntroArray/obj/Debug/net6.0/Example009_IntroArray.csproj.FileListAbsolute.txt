@@ -1,0 +1,16 @@
+/Users/tatiana/Desktop/c#лекции/Examples/Example009_IntroArray/bin/Debug/net6.0/Example009_IntroArray
+/Users/tatiana/Desktop/c#лекции/Examples/Example009_IntroArray/bin/Debug/net6.0/Example009_IntroArray.deps.json
+/Users/tatiana/Desktop/c#лекции/Examples/Example009_IntroArray/bin/Debug/net6.0/Example009_IntroArray.runtimeconfig.json
+/Users/tatiana/Desktop/c#лекции/Examples/Example009_IntroArray/bin/Debug/net6.0/Example009_IntroArray.dll
+/Users/tatiana/Desktop/c#лекции/Examples/Example009_IntroArray/bin/Debug/net6.0/ref/Example009_IntroArray.dll
+/Users/tatiana/Desktop/c#лекции/Examples/Example009_IntroArray/bin/Debug/net6.0/Example009_IntroArray.pdb
+/Users/tatiana/Desktop/c#лекции/Examples/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.GlobalUsings.g.cs
+/Users/tatiana/Desktop/c#лекции/Examples/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.csproj.AssemblyReference.cache
+/Users/tatiana/Desktop/c#лекции/Examples/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatiana/Desktop/c#лекции/Examples/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.AssemblyInfoInputs.cache
+/Users/tatiana/Desktop/c#лекции/Examples/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.AssemblyInfo.cs
+/Users/tatiana/Desktop/c#лекции/Examples/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.csproj.CoreCompileInputs.cache
+/Users/tatiana/Desktop/c#лекции/Examples/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.dll
+/Users/tatiana/Desktop/c#лекции/Examples/Example009_IntroArray/obj/Debug/net6.0/ref/Example009_IntroArray.dll
+/Users/tatiana/Desktop/c#лекции/Examples/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.pdb
+/Users/tatiana/Desktop/c#лекции/Examples/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.genruntimeconfig.cache
